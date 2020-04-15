@@ -4,5 +4,5 @@ print('Hello world')
 print()
 print('My cat\'s name is Cooper.')
 print('He is an black cat.')
-print('kthxbai')
+print('See you later!')
 
