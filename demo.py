@@ -5,4 +5,3 @@ print()
 print('My cat\'s name is Cooper.')
 print('He is an black cat.')
 print('See you later!')
-
